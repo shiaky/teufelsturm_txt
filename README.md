@@ -1,4 +1,5 @@
-#Teufelsturm TXT
+# Teufelsturm TXT
+
 A scraper for the local climbing forum of Elbsandstein "teufelsturm.de". The script gets all rout ratings and saves them in txt file grouped by sectors and summits. This means that you can access your own offline version of Teufelsturm on your own smartphone even without Internet access. The pictures of the routes can also be saved.
 
 ## Usage
